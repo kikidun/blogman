@@ -1,4 +1,4 @@
-baseURL = "https://blog.kierandunbar.com"
+baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Hugo Hermit"
 theme = "hermit"
@@ -13,7 +13,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "Kieran Dunbar"
+  name = "John Doe"
 
 [blackfriday]
   hrefTargetBlank = true
